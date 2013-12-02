@@ -1,0 +1,30 @@
+{
+  "name": "bacon.bundler",
+  "version": "0.1.0",
+  "description": "Bundle generator for bacon.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wolfflow/bacon.bundler.git"
+  },
+  "keywords": [
+    "baconjs",
+    "bacon.model",
+    "bacon.plugin",
+    "frp",
+    "reactive",
+    "bacon.jquery",
+    "bindings"
+  ],
+  "author": "Daniel K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wolfflow/bacon.bundler/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-bower-task": "~0.3.4",
+    "grunt-cli": "~0.1.11",
+    "grunt": "~0.4.2",
+    "bower": "~1.2.8"
+  }
+}
